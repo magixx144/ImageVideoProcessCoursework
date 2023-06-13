@@ -1,5 +1,5 @@
 # ImageVideoProcessCoursework
-# @author magixx
+# @author magixx(Yuwei Min)
 
 
 **Learning purposes**
